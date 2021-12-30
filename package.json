@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for valitation and verification test",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bapp\u001b[3~\u001b[3~\u001b[C\u001b\u001b[C\u001b[C\u001b[C\u001b[C.js)",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Mauri C",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "jasmine": "^3.10.0",
+    "jasmine-browser-runner": "^0.10.0",
+    "jasmine-core": "^3.10.1"
+  }
+}
