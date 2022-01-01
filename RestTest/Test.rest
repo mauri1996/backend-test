@@ -1,0 +1,12 @@
+
+### Get all directors
+Get https://vyv-test-api.herokuapp.com/api/directors
+
+### Get single information
+Get https://vyv-test-api.herokuapp.com/api/films/1
+
+
+### Get all films
+Get https://vyv-test-api.herokuapp.com/api/films
+
+

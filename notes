@@ -1,0 +1,6 @@
+Run serve
+    - npx jasmine-browser-runner serve
+    - http://localhost:8888
+    
+Run test local
+    -  npm run test
